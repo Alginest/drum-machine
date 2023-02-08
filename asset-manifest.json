@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//Alginest.github.io/drum-machine/static/css/main.f0a5c99b.css",
-    "main.js": "/https//Alginest.github.io/drum-machine/static/js/main.980b1477.js",
-    "static/js/787.e9bed731.chunk.js": "/https//Alginest.github.io/drum-machine/static/js/787.e9bed731.chunk.js",
-    "index.html": "/https//Alginest.github.io/drum-machine/index.html",
-    "main.f0a5c99b.css.map": "/https//Alginest.github.io/drum-machine/static/css/main.f0a5c99b.css.map",
-    "main.980b1477.js.map": "/https//Alginest.github.io/drum-machine/static/js/main.980b1477.js.map",
-    "787.e9bed731.chunk.js.map": "/https//Alginest.github.io/drum-machine/static/js/787.e9bed731.chunk.js.map"
+    "main.css": "/drum-machine/static/css/main.f0a5c99b.css",
+    "main.js": "/drum-machine/static/js/main.32d87131.js",
+    "static/js/787.e9bed731.chunk.js": "/drum-machine/static/js/787.e9bed731.chunk.js",
+    "index.html": "/drum-machine/index.html",
+    "main.f0a5c99b.css.map": "/drum-machine/static/css/main.f0a5c99b.css.map",
+    "main.32d87131.js.map": "/drum-machine/static/js/main.32d87131.js.map",
+    "787.e9bed731.chunk.js.map": "/drum-machine/static/js/787.e9bed731.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0a5c99b.css",
-    "static/js/main.980b1477.js"
+    "static/js/main.32d87131.js"
   ]
 }
